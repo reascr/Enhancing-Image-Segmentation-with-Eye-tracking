@@ -16,7 +16,7 @@ This repository contains code and data used for the final project in the class "
 This folder contains the eye tracking data (fixation points) extracted from the POET dataset.
 
 - ##### eye_tracking_data.csv
-- #### eye_tracking_data.pkl.zip
+- ##### eye_tracking_data.pkl.zip
 
 #### Data-Preprocessing
 
