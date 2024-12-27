@@ -10,7 +10,15 @@ This repository contains code and data used for the final project in the class "
   Code to analyse which fixation point (longest duration, first, last, etc.) usually lies on the object.
 - ##### one-fixation-point-for-sam.ipynb
   Code to explore whether the fixation point with the longest duration yields better segmentation masks.
+- ##### Comparison-Accuracies-attention-points.ipynb
+  Code to compute attention points accuracies within segmentation masks
+- ##### Extract_fixation_point.ipynb
+  Code to extract fixation point with longest duration per viewer and image 
   
+#### Attention Points
+
+This folder contains json files containing attention points for fixation data, and for the faster_rcnn and fcn_resnet model.
+
 #### Datasets
 
 This folder contains the eye tracking data (fixation points) extracted from the POET dataset.
